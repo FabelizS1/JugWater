@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B58798-A15B-4E0B-A42C-7C461B4B9B85}|Jug_Water_API\\Jug_Water_API.csproj|c:\\users\\user\\source\\repos\\jug_water_api\\jug_water_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B58798-A15B-4E0B-A42C-7C461B4B9B85}|Jug_Water_API\\Jug_Water_API.csproj|solutionrelative:jug_water_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B58798-A15B-4E0B-A42C-7C461B4B9B85}|Jug_Water_API\\Jug_Water_API.csproj|c:\\users\\user\\source\\repos\\jug_water_api\\jug_water_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66B58798-A15B-4E0B-A42C-7C461B4B9B85}|Jug_Water_API\\Jug_Water_API.csproj|solutionrelative:jug_water_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B58798-A15B-4E0B-A42C-7C461B4B9B85}|Jug_Water_API\\Jug_Water_API.csproj|c:\\users\\user\\source\\repos\\jug_water_api\\jug_water_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66B58798-A15B-4E0B-A42C-7C461B4B9B85}|Jug_Water_API\\Jug_Water_API.csproj|solutionrelative:jug_water_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751CB38F-16A5-48D6-AD8B-0ECA5AD62ACB}|TestJugWater\\TestJugWater.csproj|c:\\users\\user\\source\\repos\\jug_water_api\\testjugwater\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751CB38F-16A5-48D6-AD8B-0ECA5AD62ACB}|TestJugWater\\TestJugWater.csproj|solutionrelative:testjugwater\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B58798-A15B-4E0B-A42C-7C461B4B9B85}|Jug_Water_API\\Jug_Water_API.csproj|c:\\users\\user\\source\\repos\\jug_water_api\\jug_water_api\\controllers\\jugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B58798-A15B-4E0B-A42C-7C461B4B9B85}|Jug_Water_API\\Jug_Water_API.csproj|solutionrelative:jug_water_api\\controllers\\jugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\Jug_Water_API\\Program.cs",
+              "RelativeDocumentMoniker": "Jug_Water_API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\Jug_Water_API\\Program.cs",
+              "RelativeToolTip": "Jug_Water_API\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:58:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\Jug_Water_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Jug_Water_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\Jug_Water_API\\appsettings.json",
+              "RelativeToolTip": "Jug_Water_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T21:58:16.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\Jug_Water_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Jug_Water_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\Jug_Water_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Jug_Water_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T21:57:43.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JugController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\Jug_Water_API\\Controllers\\JugController.cs",
+              "RelativeDocumentMoniker": "Jug_Water_API\\Controllers\\JugController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\Jug_Water_API\\Controllers\\JugController.cs",
+              "RelativeToolTip": "Jug_Water_API\\Controllers\\JugController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:38:27.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\TestJugWater\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestJugWater\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Jug_Water_API\\TestJugWater\\UnitTest1.cs",
+              "RelativeToolTip": "TestJugWater\\UnitTest1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:34:38.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

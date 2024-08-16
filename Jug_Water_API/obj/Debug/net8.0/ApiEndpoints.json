@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Jug_Water_API.Controllers.JugController",
+    "Method": "GetJugInformation",
+    "RelativePath": "api/Jug",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jug",
+        "Type": "Jug_Water_API.Models.Jug",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Jug_Water_API.Models.Message, Jug_Water_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
