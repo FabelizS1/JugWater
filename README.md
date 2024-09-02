@@ -1,11 +1,6 @@
 
 README
 
-1. Open project on visual studio 2022
-2. Start project
-3. Get localhost url 
-4. Return response
-5. Have unit test project
 
 Example:
 https://localhost:7205/api/Jug
